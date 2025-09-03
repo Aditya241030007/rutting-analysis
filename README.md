@@ -14,7 +14,7 @@ The goal is to demonstrate data analysis and modeling skills relevant to pavemen
 ---
 
 ## Tools & Libraries
-- **R / MATLAB / Python** (depending on implementation)
+- **R**
 - **Data Handling & Simulation**: vectors, random noise generation
 - **Modeling**: Linear Regression
 - **Visualization**: scatter plots and regression line
@@ -34,6 +34,7 @@ The goal is to demonstrate data analysis and modeling skills relevant to pavemen
 - Visualization: Scatter plot of observed rut depths and fitted regression line.
 
 ---
+
 
 
 
