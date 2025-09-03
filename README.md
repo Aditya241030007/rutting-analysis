@@ -25,7 +25,7 @@ The goal is to demonstrate data analysis and modeling skills relevant to pavemen
 
 ---
 
-## 📊 Key Results
+## Key Results
 - **Linear regression equation:**  
   `Rut Depth = 2.08 + 0.00039 * Traffic Load`
 
@@ -35,10 +35,5 @@ The goal is to demonstrate data analysis and modeling skills relevant to pavemen
 
 ---
 
-## 🚀 How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/rutting-analysis.git
-   cd rutting-analysis
 
 
